@@ -117,6 +117,17 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
-    }
+    },
+    {
+  "id": "4f92",
+  "title": "React Query Testing",
+  "category": "Web Development",
+  "description": "Testing blog creation using JSON Server and Axios.",
+  "coverImage": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg",
+  "content": "This blog is created to test API integration with React Query and JSON Server in a real-world frontend application. While developing modern React apps, managing server state efficiently is very important. React Query helps developers fetch, cache, synchronize, and update server data without writing complex logic.\n\nIn this project, JSON Server is used as a fake backend to simulate real APIs. It allows developers to perform CRUD operations such as creating, reading, updating, and deleting blog posts. By connecting React Query with Axios, API requests become more organized, reusable, and easier to maintain.\n\nDuring testing, various scenarios are checked, including loading states, error handling, and data refreshing. When a new blog is added, React Query automatically updates the cache, ensuring that the UI reflects the latest data without manual reloads. This improves both performance and user experience.\n\nAnother advantage of this setup is faster development. Frontend developers can work independently without waiting for backend APIs to be completed. JSON Server provides instant endpoints, allowing quick prototyping and feature testing.\n\nOverall, combining React Query, Axios, and JSON Server creates a powerful workflow for building scalable and maintainable applications. It helps developers focus more on user experience and business logic rather than repetitive data-fetching code. This testing blog demonstrates how modern tools can simplify development and improve productivity in professional projects.",
+  "date": "Thu Jan 29 2026",
+  "readTime": "6 Mins"
+}
+
   ]
 }
